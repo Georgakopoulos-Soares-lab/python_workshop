@@ -171,6 +171,11 @@ Hint: use function input()
 
 - Create a function that takes input as a string with letters from the nucleotide alphabet and returns it's reverse complement. If the input string contains any letter besides a, g, c or t, it should return the empty string.
 
+- Write a short program that prints each number from 1 to 100 on a new line. 
+    For each multiple of 3, print "Fizz" instead of the number. 
+    For each multiple of 5, print "Buzz" instead of the number. 
+    For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+
 - Create a function that takes as an input exactly one number and returns True if its prime, otherwise it returns false. Note that the number can be non-positive, in which case the function must return false.
 
 **Advanced challenges**
@@ -190,7 +195,7 @@ Examples:
     Input: 123456789 Output: 987654321
     ```
 
-- Create a function that takes as input a string from the nucleotide alphabet (a, g, c or t) and translates it to protein sequence assuming the standard translation table. You should try to find a function that does this for you by searching the internet.
+- Create a function that takes as input a string from the nucleotide alphabet (a, g, c or t) and counts the total number of subsequences that contain at least 8 or exactly 2 CpG islands.
 
 - Create a function that allows the user to play rock, paper, scissor (the computer picks randomly)
 Hint: import random.choice

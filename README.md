@@ -20,7 +20,7 @@ Run shell commands using exclamation mark (!):
 (What's in there?)
 
 ```
-!ls /storage/group/izg5139/default
+!ls /storage/group
 ```
 
 ### Bash Commands
