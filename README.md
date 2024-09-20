@@ -66,15 +66,3 @@ sleep 20
 echo "Hello World!"
 echo "My Hello World ended at $(date)"
 ```
-
-# NCBI FTP Database
-
-[ncbi](https://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/)
-
-Download it!
-
-```
-wget https://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_genbank.txt  
-```
-
-

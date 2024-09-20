@@ -1,6 +1,6 @@
 # Python and Roar Collab Introductory Workshop
 
-by Dr. Ilias Georgakopoulos-Soares, , Nikol Chantzi, Ioannis Mouratidis, Aksatha Nayak
+by Dr. Ilias Georgakopoulos-Soares, Nikol Chantzi, Ioannis Mouratidis, Aksatha Nayak
 
 ## Instructions
 
@@ -13,6 +13,9 @@ Select Jupyter server and choose the settings below:
 - Partition: open
 - Number of hours: 3
 - Number of Cores: 1
+- Memory: 20GB
+
+![jupyter](jupyter.png)
 
 
 ### Python Intro
